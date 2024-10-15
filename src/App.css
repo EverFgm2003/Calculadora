@@ -6,7 +6,7 @@
   background: linear-gradient(90deg, rgba(34,241,255,1) 0%, rgba(157,44,240,1) 49%, rgba(255,136,20,1) 95%);
 }
 .calculator {
-  width: 320px;
+  width: 30vw;
   background-color: #4a5568;
   padding: 16px;
   border-radius: 12px;
